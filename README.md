@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Murilo! 👋
+# Olá, eu sou o Murilo! 👋
 
 
 ## 🚀 Sobre mim
