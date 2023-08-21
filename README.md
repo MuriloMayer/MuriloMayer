@@ -3,7 +3,8 @@
 
 
 ## 🚀 Sobre mim
-Sou Um Aspirante Desenvolvedor Frond-End, Estou cursando o primeiro periodo de sistemas de informação na Puc/Pr e estudando de forma autonoma tecnologias como REACT.
+Sou Um Aspirante Desenvolvedor Frond-End, Estou cursando o segundo periodo de sistemas de informação na Puc/Pr e estudando de forma autonoma frameworks.
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://murilomayer.github.io/Portifolio/index.html)
