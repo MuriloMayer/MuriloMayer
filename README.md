@@ -13,5 +13,5 @@ Sou Um Aspirante Desenvolvedor Frond-End, Estou cursando o segundo periodo de si
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Python
+Angular, Javascript, HTML, CSS, Python
 
