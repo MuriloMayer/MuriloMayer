@@ -1,7 +1,4 @@
 
-# Olá, eu sou o Murilo! 👋
-
-
 ## 🚀 Sobre mim
 ### Trainee Frond-End Developer
 Estou cursando o segundo periodo de sistemas de informação na Puc/Pr e estudando de forma autonoma frameworks.
