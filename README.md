@@ -1,6 +1,6 @@
 
 ### Trainee Frond-End Developer
-Estou no segundo período do curso de Sistemas de Informação na PUC/PR e atualmente trabalho como desenvolvedor front-end em um sistema clínico. No meu estudo acadêmico, estou estudando Java, Banco de Dados com MySQL e PHP. No ambiente profissional, utilizo o framework Angular em conjunto com o Ionic para desenvolver páginas e componentes responsivos, utilizando TypeScript e SCSS.
+Estou cursando o terceiro período do curso de Sistemas de Informação na PUC/PR e atualmente trabalho como desenvolvedor front-end em um sistema clínico. No meu estudo acadêmico, estou estudando Java, Banco de Dados com MySQL e PHP. No ambiente profissional, utilizo o framework Angular em conjunto com o Ionic para desenvolver páginas e componentes responsivos, utilizando TypeScript HTML e SCSS.
 
 
 
