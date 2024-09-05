@@ -9,5 +9,5 @@ Estou cursando o quarto período do curso de Sistemas de Informação na PUC/PR 
 
 
 ## 🛠 Habilidades
-Angular, TypeScript, SCSS, Ionic 
+Angular, TypeScript, SCSS, PHP, Ionic 
 
