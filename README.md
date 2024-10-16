@@ -1,7 +1,7 @@
 
-### Trainee Frond-End Developer
-Estou cursando o quarto período do curso de Sistemas de Informação na PUC/PR e atualmente trabalho como desenvolvedor front-end em um sistema clínico. No meu estudo acadêmico, ja estudei Programação orientada a objetos com JAVA, Banco de Dados com MySQL ,HTML, CSS, Javascript e PHP. No ambiente profissional, utilizo o framework Angular, Typescript, HTML, SCSS para desenvolver páginas e componentes responsivos.
-
+### Trainee Developer
+Estou cursando o quarto período do curso de Sistemas de Informação na PUC/PR, trabalhei como desenvolvedor front-end em um sistema clínico por 1,5 anos, onde desenvolvi muitas habilidades tecnicas como Angular, JavaScript, HTML, ScSS, versionamento de codigo entre outros. 
+No meu estudo acadêmico, adquiri conhecimento e pratica em Java, Banco de Dados com MySQL ,HTML, CSS, Javascript e PHP. No ambiente profissional, tambem utilizei o framework Laravel, Typescript, Ionic, SCSS para desenvolver páginas e componentes responsivos.
 
 
 ## 🔗 Links
@@ -9,5 +9,5 @@ Estou cursando o quarto período do curso de Sistemas de Informação na PUC/PR 
 
 
 ## 🛠 Habilidades
-Angular, TypeScript, SCSS, PHP, Ionic 
+Angular, TypeScript, Java, Laravel, SCSS, PHP, Ionic 
 
