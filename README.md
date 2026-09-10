@@ -1,177 +1,174 @@
-# 👋 Hi, I'm Murilo Mayer Van Nouhuys
+# Hi, I'm Murilo Mayer Van Nouhuys
 
-**Full Stack & Mobile Developer** focused on building real-world web and mobile applications using **React Native, React, Next.js, TypeScript and Laravel**.
+**Full Stack Software Engineer with strong mobile experience**, building production software across web, backend and mobile.
 
-I have around **3 years of experience in software development**, working across **mobile, front-end and back-end** projects. Over the last few years, I’ve contributed to production applications for **iOS, Android and web**, participating in the full development cycle — from business rules and UI implementation to API integrations, performance improvements, builds and app store releases.
+Currently working at **Óptimas**, where I develop and evolve SaaS products using **Next.js, React, TypeScript, Node.js, NestJS and PostgreSQL**. My work spans complete product modules — from APIs and business rules to frontend implementation, automated testing and production delivery.
 
-I’m especially interested in roles where I can work close to the product, take ownership of features, collaborate with strong teams and keep growing as a **Mobile / Full Stack Developer**.
+Previously at **Signo Tech**, I worked extensively with **React Native, Expo and Laravel**, contributing to multiple production applications released on both the **App Store and Google Play**.
 
----
-
-## 🚀 About Me
-
-* 📱 Mobile Developer with strong experience in **React Native, Expo and TypeScript**
-* 💻 Full Stack experience with **React, Next.js, Laravel, PHP and REST APIs**
-* 🧩 Experience building reusable components, scalable UI flows and production features
-* 🔁 Used to working with **apps and systems already running in production**
-* 🚀 Hands-on experience with **App Store and Google Play publishing workflows**
-* 🤝 Comfortable working with product, design, QA and backend teams
-* 🌍 **Dutch citizen / EU work authorization** — open to opportunities in Europe
-* 🎯 Interested in product-focused teams, startups and international environments
+I enjoy working close to the product, understanding the problem behind a feature and taking ownership of the solution — not just implementing tickets.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Mobile Development
-
-* React Native
-* Expo SDK
-* TypeScript
-* Redux Toolkit
-* Context API
-* React Navigation
-* AsyncStorage
-* SQLite / Room
-* Native integrations
-* iOS / Android publishing
-* Xcode
-* Android Studio
-
-### Front-End
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* HTML
-* SCSS / CSS
-* Angular
-* Ionic
-* Responsive UI
-* Component-based architecture
-
-### Back-End
-
-* Laravel
-* PHP
-* Node.js
-* Django
-* REST APIs
-* SQL Databases
-* MySQL
-* API integrations
-* Business logic implementation
-
-### Tools & Practices
-
-* Git & GitHub
-* Agile / Scrum
-* Code Review
-* CI/CD basics
-* Clean Code
-* Performance Optimization
-* Technical Documentation
-* Debugging
-* Production Maintenance
+- Full Stack Engineer working across **frontend, backend and mobile**
+- Building SaaS products with **React, Next.js, Node.js and NestJS**
+- Strong production experience with **React Native, Expo and TypeScript**
+- Experience designing **REST APIs, business rules and data models**
+- Working with **PostgreSQL, TypeORM and MySQL**
+- Experience with **authentication, authorization, payments, webhooks and third-party integrations**
+- Focused on **reusable architecture, componentization and reducing code complexity**
+- Automated testing with **Jest, Cypress and Playwright**
+- Experience shipping and maintaining applications on **App Store and Google Play**
+- Comfortable taking features from **business requirements → API → UI → tests → PR**
+- Working with **GitHub, code reviews and CI/CD** across development, staging and production environments
+- Dutch citizen with **full EU work authorization — no sponsorship required**
 
 ---
 
-## 📱 Professional Experience
+## Tech Stack
 
-### **Full Stack / Mobile Developer**
+### Frontend & Mobile
 
-**Signo Tech**
-*Nov 2024 – Present*
+`React` · `Next.js` · `React Native` · `Expo` · `TypeScript` · `JavaScript` · `Redux Toolkit` · `MUI` · `Tailwind CSS`
 
-I work on web and mobile applications, mainly using **React Native, Expo, TypeScript, React, Next.js and Laravel**. My role involves building production-ready features, integrating APIs, improving performance and contributing to both front-end and back-end development.
+### Backend & Data
 
-Main responsibilities and contributions:
+`Node.js` · `NestJS` · `Laravel` · `PHP` · `PostgreSQL` · `MySQL` · `TypeORM` · `REST APIs` · `Webhooks`
 
-* Development of mobile applications using **React Native, Expo and TypeScript**
-* Creation of reusable components and scalable UI structures
-* Integration with **REST APIs** and internal services
-* State management using **Redux Toolkit** and Context API
-* Contribution to back-end features using **Laravel**, including endpoints, business rules and data handling
-* Participation in build, release and maintenance processes for **iOS and Android apps**
-* Use of **Xcode** and Android tools for debugging, builds and publishing workflows
-* Collaboration with design, product, QA and backend teams
-* Participation in code reviews, technical discussions and feature planning
-* Performance improvements, bug fixing and continuous product evolution
+### Testing & Engineering
 
-**Apps and products contributed to:**
+`Jest` · `Cypress` · `Playwright` · `Git` · `GitHub` · `CI/CD` · `Code Review` · `Scrum`
 
-* **BEC – Conecta Sócio**
-* **LIDE Mundial / LIDE Global**
-* **LIDE Paraná**
-* **NutriXpert**
-* **Arte Terapêutica**
+### Mobile Delivery
+
+`Xcode` · `App Store Connect` · `Android Studio` · `Google Play Console`
 
 ---
 
-### **Front-End & IT Intern**
+## Experience
 
-**Clínica CERNE**
-*Jun 2023 – Oct 2024*
+### Frontend Software Engineer (Full Stack)
+**Óptimas** · Aug 2026 – Present
 
-I worked on internal web systems and IT support, gaining my first strong experience in corporate software development, front-end maintenance and technical problem-solving.
+Building and evolving SaaS products across **frontend and backend**, working primarily with **Next.js, React, TypeScript, Node.js, NestJS, PostgreSQL and TypeORM**.
 
-Main responsibilities:
+My work includes complete product modules and business-critical workflows across SaaS platforms in **field service operations, education and aviation**.
 
-* Development of web interfaces using **Angular, JavaScript, HTML, SCSS and Ionic**
-* Integration with **REST APIs**
-* Maintenance and improvement of internal systems
-* UI structure improvements and component organization
-* Bug fixing and support for internal users
-* Participation in agile routines, planning and code reviews
-* Technical troubleshooting and IT support
-
----
-
-## 🚀 Selected Projects
-
-### **BEC – Conecta Sócio**
-
-Mobile app developed with **React Native**, focused on user experience, API integration and production stability.
-I was involved in multiple stages of the project, including feature development, business rules discussions, integrations, builds and app store publishing.
-
-### **LIDE Mundial / LIDE Global**
-
-Production mobile application built with **React Native and TypeScript**.
-I contributed to feature development, API integrations, performance improvements, maintenance and release processes.
-
-### **NutriXpert**
-
-Mobile product where I was involved in the early stages of the project, including architecture discussions, business rules, data modeling, front-end, back-end and initial app store releases.
-
-### **Arte Terapêutica**
-
-Project involving both mobile and web/WordPress work.
-I contributed to mobile development and was also the main responsible for building the WordPress/WooCommerce website from start to finish.
+- Build frontend modules and backend APIs
+- Implement complex business rules and product workflows
+- Work with authentication, authorization and permission systems
+- Design and integrate REST APIs, webhooks and third-party services
+- Work with payments and external integrations
+- Build reusable components and refactor complex application flows
+- Write and maintain automated tests with Jest, Cypress and Playwright
+- Participate in solution discussions with Product, Tech Lead, QA, Design and Engineering
+- Deliver through feature branches, pull requests, code reviews and CI/CD
 
 ---
 
-## 🎓 Education
+### Software Engineer — Full Stack & Mobile
+**Signo Tech** · Mar 2025 – Aug 2026
 
-**Bachelor of Science in Information Systems**
-Pontifical Catholic University of Paraná (PUC-PR)
-*2023 – 2026*
+Built and maintained production mobile and web applications using **React Native, Expo, TypeScript, React and Laravel**.
+
+My work covered feature development, API integration, backend development, performance, maintenance and mobile release processes.
+
+Highlights:
+
+- Shipped and maintained production applications for **iOS and Android**
+- Built reusable components shared across multiple projects
+- Developed and integrated REST APIs
+- Implemented backend endpoints and business logic with Laravel
+- Improved application performance, navigation and error handling
+- Worked on security improvements across existing flows
+- Managed builds and releases through **App Store Connect and Google Play Console**
+- Collaborated closely with Product, Design, QA and Engineering
+
+**Selected products:**  
+LIDE Global · LIDE Paraná · BEC – Conecta Sócio · NutriXpert · Arte Terapêutica
+
+---
+
+### Front-End & IT Intern
+**Clínica CERNE** · Jun 2023 – Oct 2024
+
+Started my professional software engineering journey working with **Angular, Ionic, TypeScript, SCSS and REST APIs** on internal web systems.
+
+Alongside development, I handled technical troubleshooting and IT support, giving me early exposure to maintaining software used in real business operations.
 
 ---
 
-## 🌎 Languages
+## Selected Work
 
-* 🇧🇷 Portuguese — Native
-* 🇺🇸 English — B2 / Professional working proficiency
-* 🇳🇱 Dutch — Learning
+### Conecta Sócio Ecosystem
+
+Contributed to a **white-label mobile ecosystem** built with React Native, where a shared technical foundation supports multiple independently branded applications.
+
+My work involved reusable architecture, business-specific flows, API integrations, maintenance and production delivery across multiple applications.
+
+Public applications include:
+
+- Conecta Sócio – Futebol
+- Paraná Business
+- Somos Hiléia
+- BEC – Blumenau Esporte Clube
+
+### LIDE Global
+
+Production mobile application developed with **React Native and TypeScript**.
+
+Contributed across feature development, API integrations, performance improvements, maintenance and production releases for iOS and Android.
+
+### Arte Terapêutica
+
+Worked across mobile, backend and web integrations, including **React Native, Laravel, WordPress and WooCommerce**, with third-party integrations such as payment services.
 
 ---
 
-## 📫 Contact
+## AI-Assisted Engineering
 
-* LinkedIn: [linkedin.com/in/murilomayer](https://linkedin.com/in/murilomayer)
-* GitHub: [github.com/MuriloMayer](https://github.com/MuriloMayer)
-* Email: [murilomayer@live.com](mailto:murilomayer@live.com)
-* Location: Brazil — open to relocation / remote opportunities in Europe
+I use AI as part of a structured software engineering workflow rather than as a replacement for engineering judgment.
+
+My current workflow includes **Codex and Claude Code**, MCP integrations and structured project documentation with **Obsidian**, supporting tasks such as implementation, code review, architecture analysis, security review and knowledge management.
+
+The goal is simple: **use AI to increase engineering throughput while keeping decisions, validation and code quality explicit.**
 
 ---
+
+## Education
+
+**Bachelor's Degree in Information Systems**  
+Pontifical Catholic University of Paraná — PUC-PR  
+2023 – 2026
+
+---
+
+## Languages
+
+- Portuguese — Native
+- English — B2 / Professional Working Proficiency
+- Dutch — Currently learning
+
+---
+
+## Currently
+
+I'm focused on growing as a **Full Stack Software Engineer with strong mobile expertise**, particularly in product-oriented engineering teams where I can take ownership of meaningful problems across the stack.
+
+I'm a **Dutch citizen with full EU work authorization** and I'm open to opportunities in:
+
+**Netherlands · Portugal · Remote Europe**
+
+Target roles:
+
+**Full Stack Engineer · Mobile Engineer · Frontend Engineer**
+
+---
+
+## Contact
+
+**LinkedIn:** linkedin.com/in/murilomayer  
+**GitHub:** github.com/MuriloMayer  
+**Email:** murilomayer@live.com
